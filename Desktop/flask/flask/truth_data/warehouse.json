@@ -1,0 +1,248 @@
+{
+    "2017-11-01":{
+        "北京":{
+            "node_type": "仓库",
+            "position":[116.4551, 40.2539],
+            "receive":450,
+            "send":203,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "上海":{
+            "node_type": "VDC",
+            "position":[121.4648, 31.2891],
+            "receive":100,
+            "send":700,
+            "storage":{
+                "通用":670,
+                "大众":932
+            }
+        },
+        "guangzhou":{
+            "node_type": "VSC",
+            "position":[113.5107, 23.2196],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":800,
+                "大众":300
+            }
+        },
+        "dalian":{
+            "node_type": "经销商",
+            "position":[122.2229, 39.4409],
+            "receive":500,
+            "send":600,
+            "storage":{
+                "通用":200,
+                "大众":880
+            }
+        },
+        "nanning":{
+            "node_type": "经销商",
+            "position":[108.479, 23.1152],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":450,
+                "大众":600
+            }
+        },
+        "nanchang":{
+            "node_type": "经销商",
+            "position":[116.0046, 28.6633],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":750,
+                "大众":200
+            }
+        },
+        "lasa":{
+            "node_type": "经销商",
+            "position":[91.1865, 30.1465],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":450,
+                "大众":710
+            }
+        },
+        "重庆":{
+            "node_type": "经销商",
+            "position":[107.7539, 30.1904],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":339,
+                "大众":684
+            }
+        }
+    },
+    "2017-11-02":{
+        "北京":{
+            "node_type": "仓库",
+            "position":[116.4551, 40.2539],
+            "receive":240,
+            "send":600,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "上海":{
+            "node_type": "VDC",
+            "position":[121.4648, 31.2891],
+            "receive":430,
+            "send":200,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "guangzhou":{
+            "node_type": "VSC",
+            "position":[113.5107, 23.2196],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "dalian":{
+            "node_type": "经销商",
+            "position":[122.2229, 39.4409],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "nanning":{
+            "node_type": "经销商",
+            "position":[108.479, 23.1152],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "nanchang":{
+            "node_type": "经销商",
+            "position":[116.0046, 28.6633],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "lasa":{
+            "node_type": "经销商",
+            "position":[91.1865, 30.1465],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "重庆":{
+            "node_type": "经销商",
+            "position":[107.7539, 30.1904],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        }
+    },
+    "2017-11-03":{
+        "北京":{
+            "node_type": "仓库",
+            "position":[116.4551, 40.2539],
+            "receive":360,
+            "send":600,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "上海":{
+            "node_type": "VDC",
+            "position":[121.4648, 31.2891],
+            "receive":35,
+            "send":750,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "广州":{
+            "node_type": "VSC",
+            "position":[113.5107, 23.2196],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "大连":{
+            "node_type": "经销商",
+            "position":[122.2229, 39.4409],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "南宁":{
+            "node_type": "经销商",
+            "position":[108.479, 23.1152],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "南昌":{
+            "node_type": "经销商",
+            "position":[116.0046, 28.6633],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "拉萨":{
+            "node_type": "经销商",
+            "position":[91.1865, 30.1465],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        },
+        "重庆":{
+            "node_type": "经销商",
+            "position":[107.7539, 30.1904],
+            "receive":600,
+            "send":600,
+            "storage":{
+                "通用":1000,
+                "大众":950
+            }
+        }
+    }
+}
